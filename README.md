@@ -22,4 +22,5 @@ Java Projekte:
 ![Ok](https://github-readme-stats.vercel.app/api?username=Juliaaan2502&count_private=true&show_icons=true&theme=radical)
 
 ## Top Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juliaaan2502&layout=compact&theme=radical&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juliaaan2502&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
