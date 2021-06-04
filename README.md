@@ -24,4 +24,5 @@ Java Projekte:
 ## Top Languages  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juliaaan2502&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-
+## Wakatime Week Stats
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Juliaaan2502)](https://github.com/anuraghazra/github-readme-stats)
