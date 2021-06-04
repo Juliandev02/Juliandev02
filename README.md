@@ -37,3 +37,6 @@ Wie überall, yk:
 - Webseiten
 - BlacklinuxSoftware
 - BlackBrowser BETA
+
+![Ok](https://github-readme-stats.vercel.app/api?username=Juliaaan2502&count_private=true&show_icons=true&theme=radical)
+
