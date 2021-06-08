@@ -1,6 +1,6 @@
 # About Me!
 
-Hey, ich bin Julian, Entwickler von [Discordlist for Bots](https://github.com/Open-Source-Discordlist-for-Bots) und [Blacklinux](github.com/Black-Linux).
+Hey, ich bin Julian, Entwickler von [Discordlist for Bots](https://github.com/OpenSource-Discordlist-for-Bots) und [Blacklinux](https://github.com/Black-Linux).
 Ich programmier Hauptsächlich mit Python, und Java. Nebenbei verwende ich auch noch Javascript. 
 (Nicht alle Projekte sind auf GH)
 
