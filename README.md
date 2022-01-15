@@ -1,6 +1,6 @@
 # About Me!
 
-Hey, i'm Julian, Developer and CEO of [Strawberry Software Industries](https://github.com/Strawberry-Software-Industries) 
+Hey, i'm Julian, Developer and CEO of [Strawberry Software Industries](https://github.com/Strawberry-Software-Industries). <br>
 I program mainly with Python, and Java. 
 
 ## My stats  
