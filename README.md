@@ -1,7 +1,7 @@
 # About Me!
 
 Hey, i'm Julian, Developer and CEO of [Ametrine Systems](https://github.com/Ametrine-Systems). <br>
-I program mainly with Python, C, and Java. 
+I program mainly with Python, and C. 
 
 ## My stats  
 ![Ok](https://github-readme-stats.vercel.app/api?username=Juliandev02&count_private=true&show_icons=true&theme=radical)
