@@ -1,6 +1,6 @@
 # About Me!
 
-Hey, i'm Julian, Developer and CEO of [Strawberry Software Industries](https://github.com/Strawberry-Software-Industries). <br>
+Hey, i'm Julian, Developer and CEO of [Ametrine Systems](https://github.com/Ametrine-Systems). <br>
 I program mainly with Python, C, and Java. 
 
 ## My stats  
