@@ -1,6 +1,6 @@
 # About Me!
 
-Hey, i'm Julian, Developer and CEO of [Ametrine Systems](https://github.com/Ametrine-Systems). <br>
+👋 Hey, i'm Julian, Developer and CEO of [Ametrine Systems](https://github.com/Ametrine-Systems). <br>
 I program mainly with Python, and C. 
 
 ## My stats  
