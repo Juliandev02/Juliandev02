@@ -1,7 +1,8 @@
 # About Me!
 
-👋 Hey, i'm Julian, Developer and CEO of [Ametrine Systems](https://github.com/Ametrine-Systems). <br>
-I program mainly with Python, and C. 
+👋 Hey, i'm Julian, Developer and CEO of [Salware Foundations](https://github.com/Salware-Foundations). <br>
+I program mainly with Python. 
+My secondary languages are C and Java. 
 
 ## My stats  
 ![Ok](https://github-readme-stats.vercel.app/api?username=Juliandev02&count_private=true&show_icons=true&theme=radical)
