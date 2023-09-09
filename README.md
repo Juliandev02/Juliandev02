@@ -24,6 +24,3 @@ Check out my website: https://julian.strawberryfoundations.xyz (Currently offlin
 </a>
 
 ![Ok](https://github-readme-stats.vercel.app/api?username=Juliandev02&count_private=true&show_icons=true&theme=transparent)
-
-## Top Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juliandev02&langs_count=8&theme=transparent)
