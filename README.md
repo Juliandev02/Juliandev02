@@ -22,6 +22,7 @@ Check out my website: https://julian.strawberryfoundations.xyz (Currently offlin
 <a href="https://github.com/Juliandev02">
   <img align="center" width="49%" src="./github-habits.svg" />
 </a>
+
 ![Ok](https://github-readme-stats.vercel.app/api?username=Juliandev02&count_private=true&show_icons=true&theme=transparent)
 
 ## Top Languages  
