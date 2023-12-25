@@ -5,7 +5,7 @@
 <br/>
 
 👋 Hey, I'm Julian, Developer and Founder of [Strawberry Foundations](https://github.com/Strawberry-Foundations). <br>
-I program mainly with Python. 
+I program mainly with Python and Rust. 
 My secondary languages are C and Java.<br>
 Check out my website: https://julian.strawberryfoundations.xyz (Currently offline :[)
 
