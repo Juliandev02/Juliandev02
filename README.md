@@ -50,3 +50,9 @@ I also own this hardware. I don't do much with it, except with my Raspberry Pi.
 - Intel Core i7 2600
 - Intel Core i5 4460
 - Intel Core 2 Quad Q8300
+- Nvidia GeForce GT 130
+- Nvidia GeForce GT 220
+- Nvidia GeForce GT 5xx (dont know the exact model)
+- Nvidia GeForce GT 730
+- Nvidia GeForce GTX 1060
+- AMD Radeon HD 7570
