@@ -14,26 +14,39 @@ I am currently developing my own Linux distro (called StrawberryOS) based on deb
 
 ## My stats
 <a href="https://github.com/Juliandev02">
-  <img align="center" width="49%" src="./repositories.svg" />
-</a>
-<a href="https://github.com/Juliandev02">
   <img align="center" width="49%" src="./acti_comm.svg" />
 </a>
-<a href="https://github.com/Juliandev02">
-    <img align="center" width="49%" src="./issue_pr_lang.svg" />
-</a>
-<a href="https://github.com/Juliandev02">
-  <img align="center" width="49%" src="./github-habits.svg" />
-</a>
 
-![Ok](https://github-readme-stats.vercel.app/api?username=Juliandev02&count_private=true&show_icons=true&theme=transparent)
+<details><summary>Interested in more GitHub stats? Click here!</summary>
+  <a href="https://github.com/Juliandev02">
+    <img align="center" width="49%" src="./repositories.svg" />
+  </a>
+
+  <a href="https://github.com/Juliandev02">
+      <img align="center" width="49%" src="./issue_pr_lang.svg" />
+  </a>
+  <a href="https://github.com/Juliandev02">
+    <img align="center" width="49%" src="./github-habits.svg" />
+  </a>
+  
+  ![Ok](https://github-readme-stats.vercel.app/api?username=Juliandev02&count_private=true&show_icons=true&theme=transparent)
+
+</details>
+
 
 # My Hardware 💻
 Maybe someone is interested in what kind of hardware I have. 
 My main operating system is Linux, sometimes I also use Windows for special games, but I'm not a fan of Windows.
 
 - **Mainboard**: GIGABYTE B550 Gaming X V2
-- **CPU**: Ryzen 7 5700G
+- **CPU**: AMD Ryzen 7 5700G
 - **RAM**: 48GB DDR4 @ 2800 MHz
 - **GPU 1**: AMD Vega 8 (iGPU)
 - **GPU 2**: NVIDIA GeForce GTX 1050 TI GAMING X (dGPU)
+
+## Other hardware
+I also own this hardware. I don't do much with it, except with my Raspberry Pi. 
+- Raspberry Pi 4 (8GB)
+- Intel Core i7 2600
+- Intel Core i5 4460
+- Intel Core 2 Quad Q8300
