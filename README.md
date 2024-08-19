@@ -11,7 +11,7 @@ My secondary languages are C and Go (Java only if necessary 💀)<br>
 I also have experience in using simple scripting languages like Lua or Bash. 
 
 I like to develop tools for Linux, and I am interested in network technology.<br>
-I am currently developing my own Linux distro (called StrawberryOS) based on debian!<br>
+I am currently developing my own Linux distro (called StrawberryOS) based on Debian!<br>
 Maybe you would like to have a look [here](https://github.com/Strawberry-Foundations/sbos-live-iso) ;)
 
 ## My stats
