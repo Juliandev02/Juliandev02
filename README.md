@@ -53,7 +53,6 @@ My main operating system is Linux, sometimes I also use Windows for special game
 
 ## Other hardware
 I also own this hardware. I don't do much with it
-- Raspberry Pi 4 (8GB)
 - Intel Core i7 2600
 - Intel Core i5 4460
 - Intel Core 2 Quad Q8300
