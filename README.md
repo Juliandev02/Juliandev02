@@ -8,6 +8,7 @@
 I am a hobby developer and like to develop open source software! <br>
 I program mainly with Rust and Python. 
 My secondary languages are C and Go (Java only if necessary 💀)<br>
+I also have experience in using simple scripting languages like Lua or Bash. 
 
 I like to develop tools for Linux, and I am interested in network technology.<br>
 I am currently developing my own Linux distro (called StrawberryOS) based on debian! Maybe you would like to have a look [here](https://github.com/Strawberry-Foundations/sbos-live-iso) ;)
@@ -38,14 +39,19 @@ I am currently developing my own Linux distro (called StrawberryOS) based on deb
 Maybe someone is interested in what kind of hardware I have. 
 My main operating system is Linux, sometimes I also use Windows for special games, but I'm not a fan of Windows.
 
+## Main PC
 - **Mainboard**: GIGABYTE B550 Gaming X V2
 - **CPU**: AMD Ryzen 7 5700G
 - **RAM**: 48GB DDR4 @ 2800 MHz
 - **GPU 1**: AMD Vega 8 (iGPU)
 - **GPU 2**: NVIDIA GeForce GTX 1050 TI GAMING X (dGPU)
 
+## Other's
+- Lenovo IdeaPad Duet 3 Chromebook
+- Raspberry Pi Model 4B (8GB)
+
 ## Other hardware
-I also own this hardware. I don't do much with it, except with my Raspberry Pi. 
+I also own this hardware. I don't do much with it
 - Raspberry Pi 4 (8GB)
 - Intel Core i7 2600
 - Intel Core i5 4460
