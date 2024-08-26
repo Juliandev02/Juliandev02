@@ -50,6 +50,7 @@ My main operating system is Linux, sometimes I also use Windows for special game
 ## Other's
 - Lenovo IdeaPad Duet 3 Chromebook
 - Raspberry Pi Model 4B (8GB)
+- Lenovo ThinkBook 13s Gen 3 (AMD)
 
 ## Other hardware
 I also own this hardware. I don't do much with it
