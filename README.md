@@ -5,9 +5,9 @@
 **Hey, I'm Julian!** Developer, Founder of [**Strawberry Foundations**](https://github.com/Strawberry-Foundations), and student at [**Berufskolleg Platz der Republik**](https://bk-tm.de/).
 
 🚀 **What I do:**
-- 💻 Passionate hobby developer focused on **open source software**
+- 💻 **Passionate hobby developer** focused on open source software
 - 🦀 **Primary languages:** Rust & Python
-- 🌐 **Also experienced in:** C#, JavaScript, Lua, Bash
+- 🌐 **Also experienced in:** C#, JavaScript, Kotlin & Scripting in Lua, Bash
 - 🐧 **Specialization:** Linux tools, operating systems & network technology
 
 <div align="center">
@@ -25,13 +25,15 @@
 ### Programming Languages
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![MicroPython](https://img.shields.io/badge/-MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### Scripting & Shells
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Fish](https://img.shields.io/badge/-Fish-4A90E2?style=for-the-badge&logo=fish&logoColor=white)
+![Lua](https://img.shields.io/badge/-Lua-000080?style=for-the-badge&logo=lua&logoColor=white)
+![Fish](https://img.shields.io/badge/-Fish-34C534?style=for-the-badge&logo=fish-shell&logoColor=white)
 
 ### Operating Systems & Tools
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -82,7 +84,7 @@
 
 ## 💻 My Development Setup
 
-> **Primary OS:** 🐧 Linux 
+> **Primary OS:** 🐧 Linux (CachyOS)
 
 ### 🖥️ Main Workstation
 
